@@ -12,5 +12,5 @@ you can try modifying the files on your own to make it compatible, following ste
 
 * Kodi 18: xbmc.gui 5.14.0
 * Kodi 19: xbmc.gui 5.15.0
-* Kodi 20: xbmc.gui 5.16.0 (on my system, Kodi 20 also works with the skin when xbmc.gui version set to 5.15.0)
+* Kodi 20: xbmc.gui 5.16.0 (on my system, also works with xbmc.gui version set to 5.15.0)
 * Kodi 21: xbmc.gui 5.17.0
